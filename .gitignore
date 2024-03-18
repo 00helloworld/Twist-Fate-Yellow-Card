@@ -1,3 +1,4 @@
 *.png
 test.py
 test2.py
+.DS_Store
